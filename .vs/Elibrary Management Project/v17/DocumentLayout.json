@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\mainpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:mainpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:userlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|e:\\users\\anike\\source\\repos\\1 all projects\\elibrary management project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookissuinng.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminbookissuinng.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminmembermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminmembermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\mainpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:mainpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminauthormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminauthormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminbookinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminbookinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\viewbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:viewbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminpublishermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminpublishermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminmembermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminmembermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookissuinng.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminbookissuinng.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminpublishermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminpublishermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminauthormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminauthormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\terms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:terms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\css\\footerdown.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0A839903-DF20-4DE5-9AC7-D281D5B9D372}|Elibrary Management Project.csproj|solutionrelative:css\\footerdown.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "userprofile.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userprofile.aspx.cs",
+              "RelativeDocumentMoniker": "userprofile.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userprofile.aspx.cs",
+              "RelativeToolTip": "userprofile.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:56:58.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "adminbookissuinng.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookissuinng.aspx.cs",
+              "RelativeDocumentMoniker": "adminbookissuinng.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookissuinng.aspx.cs",
+              "RelativeToolTip": "adminbookissuinng.aspx.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAAwEMBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:46:24.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "adminbookinventory.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookinventory.aspx.cs",
+              "RelativeDocumentMoniker": "adminbookinventory.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookinventory.aspx.cs",
+              "RelativeToolTip": "adminbookinventory.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:17:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminmembermanagement.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminmembermanagement.aspx.cs",
+              "RelativeDocumentMoniker": "adminmembermanagement.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminmembermanagement.aspx.cs",
+              "RelativeToolTip": "adminmembermanagement.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwPoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:59:43.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "adminpublishermanagement.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminpublishermanagement.aspx.cs",
+              "RelativeDocumentMoniker": "adminpublishermanagement.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminpublishermanagement.aspx.cs",
+              "RelativeToolTip": "adminpublishermanagement.aspx.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowIUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:38:56.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "adminauthormanagement.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminauthormanagement.aspx.cs",
+              "RelativeDocumentMoniker": "adminauthormanagement.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminauthormanagement.aspx.cs",
+              "RelativeToolTip": "adminauthormanagement.aspx.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAkwAEBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:55:04.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "adminlogin.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminlogin.aspx.cs",
+              "RelativeDocumentMoniker": "adminlogin.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminlogin.aspx.cs",
+              "RelativeToolTip": "adminlogin.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:47:59.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "userlogin.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userlogin.aspx.cs",
+              "RelativeDocumentMoniker": "userlogin.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userlogin.aspx.cs",
+              "RelativeToolTip": "userlogin.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:23:07.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signup.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\signup.aspx.cs",
+              "RelativeDocumentMoniker": "signup.aspx.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\signup.aspx.cs",
+              "RelativeToolTip": "signup.aspx.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:57:39.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainpage.Master.cs",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\mainpage.Master.cs",
+              "RelativeDocumentMoniker": "mainpage.Master.cs",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\mainpage.Master.cs",
+              "RelativeToolTip": "mainpage.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:05:20.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-18T12:45:06.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "viewbooks.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\viewbooks.aspx",
+              "RelativeDocumentMoniker": "viewbooks.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\viewbooks.aspx",
+              "RelativeToolTip": "viewbooks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T11:33:35.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminbookissuinng.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookissuinng.aspx",
+              "RelativeDocumentMoniker": "adminbookissuinng.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookissuinng.aspx",
+              "RelativeToolTip": "adminbookissuinng.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T04:51:29.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adminbookinventory.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookinventory.aspx",
+              "RelativeDocumentMoniker": "adminbookinventory.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminbookinventory.aspx",
+              "RelativeToolTip": "adminbookinventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T07:41:44.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "adminmembermanagement.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminmembermanagement.aspx",
+              "RelativeDocumentMoniker": "adminmembermanagement.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminmembermanagement.aspx",
+              "RelativeToolTip": "adminmembermanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T05:44:47.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "adminpublishermanagement.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminpublishermanagement.aspx",
+              "RelativeDocumentMoniker": "adminpublishermanagement.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminpublishermanagement.aspx",
+              "RelativeToolTip": "adminpublishermanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T02:35:13.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adminauthormanagement.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminauthormanagement.aspx",
+              "RelativeDocumentMoniker": "adminauthormanagement.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminauthormanagement.aspx",
+              "RelativeToolTip": "adminauthormanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T02:34:49.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "terms.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\terms.aspx",
+              "RelativeDocumentMoniker": "terms.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\terms.aspx",
+              "RelativeToolTip": "terms.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T02:17:10.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "about.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\about.aspx",
+              "RelativeDocumentMoniker": "about.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\about.aspx",
+              "RelativeToolTip": "about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T02:08:58.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "userprofile.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userprofile.aspx",
+              "RelativeDocumentMoniker": "userprofile.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userprofile.aspx",
+              "RelativeToolTip": "userprofile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-12T16:05:16.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "signup.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\signup.aspx",
+              "RelativeDocumentMoniker": "signup.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\signup.aspx",
+              "RelativeToolTip": "signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T11:10:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "footerdown.css",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\css\\footerdown.css",
+              "RelativeDocumentMoniker": "css\\footerdown.css",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\css\\footerdown.css",
+              "RelativeToolTip": "css\\footerdown.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T10:53:07.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "adminlogin.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminlogin.aspx",
+              "RelativeDocumentMoniker": "adminlogin.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\adminlogin.aspx",
+              "RelativeToolTip": "adminlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T10:00:08.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userlogin.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userlogin.aspx",
+              "RelativeDocumentMoniker": "userlogin.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\userlogin.aspx",
+              "RelativeToolTip": "userlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T09:59:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.js",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\js\\main.js",
+              "RelativeDocumentMoniker": "js\\main.js",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\js\\main.js",
+              "RelativeToolTip": "js\\main.js",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T06:14:58.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\homepage.aspx",
+              "RelativeDocumentMoniker": "homepage.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\homepage.aspx",
+              "RelativeToolTip": "homepage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T04:11:27.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T02:39:42.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mainpage.Master",
+              "DocumentMoniker": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\mainpage.Master",
+              "RelativeDocumentMoniker": "mainpage.Master",
+              "ToolTip": "E:\\Users\\anike\\source\\repos\\1 all projects\\Elibrary Management Project\\mainpage.Master",
+              "RelativeToolTip": "mainpage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T12:45:04.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

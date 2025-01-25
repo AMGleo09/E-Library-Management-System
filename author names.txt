@@ -1,0 +1,16 @@
+publisher_ID		publisher_Name
+p001			Amazing Reads
+p002			Harpin Collins
+p003			Fingerprint Publishing
+p004			RHUK
+p005			Notion Press
+
+
+author_ID		author_Name
+a001			Joseph Murphy
+a002			Dale Carnegie
+a003			Napoleon Hill
+a004			Mark Manson
+a005			Amit Ghule
+
+
